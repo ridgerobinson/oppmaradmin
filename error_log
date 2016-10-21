@@ -1,0 +1,10 @@
+[29-Sep-2016 13:51:00 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/oppmar/apps/admin/public_html/includes/database.php on line 3
+[29-Sep-2016 13:51:19 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/oppmar/apps/admin/public_html/includes/database.php on line 10
+[29-Sep-2016 13:52:37 America/Chicago] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'oppmar_dev'@'localhost' to database 'oppmar_admin' in /home/oppmar/apps/admin/public_html/includes/database.php on line 10
+[29-Sep-2016 13:53:31 America/Chicago] PHP Warning:  printf(): Too few arguments in /home/oppmar/apps/admin/public_html/includes/database.php on line 17
+[29-Sep-2016 14:41:09 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/oppmar/apps/admin/public_html/addcategory.php on line 9
+[29-Sep-2016 14:42:54 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/oppmar/apps/admin/public_html/addcategory.php on line 9
+[29-Sep-2016 14:43:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/oppmar/apps/admin/public_html/addcategory.php on line 9
+[29-Sep-2016 14:43:57 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/oppmar/apps/admin/public_html/addcategory.php on line 19
+[29-Sep-2016 14:44:45 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/oppmar/apps/admin/public_html/addcategory.php on line 9
+[29-Sep-2016 14:44:45 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/oppmar/apps/admin/public_html/addcategory.php on line 19
